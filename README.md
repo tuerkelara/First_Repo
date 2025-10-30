@@ -1,2 +1,3 @@
-% Mein Projekt
-% Das muss unbedingt jeder gelesen haben
+# Mein Projekt
+## Das muss unbedingt jeder gelesen haben
+Lorem ipsum ...
